@@ -2,11 +2,15 @@
 Example Basic Input Keyboard to Arduino Serial Monitor
 
 ```bash
-Tools -> Board -> Pickup your Arduino board type
-Tools -> Processor -> Pickup your Arduino processor type
-Tools -> Port -> Pickup your Arduino Port
-```bash
+#Before run the program
+1. Tools -> Board -> Pickup your Arduino board type
+2. Tools -> Processor -> Pickup your Arduino processor type
+3. Tools -> Port -> Pickup your Arduino Port
+```
 
-Verify
-Upload
-Serial Monitor
+```bash
+#Run the program :D
+1. click Verify until process complete
+2. click Upload until process complete
+3. click Serial Monitor to communicate with Arduino
+```
